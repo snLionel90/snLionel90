@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently developping on my own Proyect: https://snlionel90.github.io/ 
 - 📫 How to reach me: SnLionel90, Webdeveloper
 - 👨💼Now I'm currently Working  in TecData as IT Technician + web Developper -->I Like it
-- 💬 Ask me about Coding or job, working market or how to improve yourself in workplace, not about news or newspapers, I don't have interest in with. ⚡ ignorance is the best ally.
+- 💬 Ask me about Coding or job, working market or how to improve yourself in workplace, <!> ❌not about news or newspapers<- I don't have interest in with.❌
+- ⚡ ignorance is my best ally.
 - ⚡ Fun fact: I HATE weird people, anime obsessed or freaks, I don't care between 0 and nothing, well that... makes me sick.
 - ⭐ Also I Make illustrations using Medibang Paint Pro, with my fav ⭐⭐ gadget: my Digital tablet Intuos Wacom
 - 🇺🇦 Support Ukraine 🇺🇦 . Support Europe Union 🇪🇺🇪🇺
