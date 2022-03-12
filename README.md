@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi World, my name is Lionel, called SnLionel90, I'm an Android, Node,AngularJs, JavaScript, C#, Java, Python and WEB Developer Autodidact since 2016. F for me
+- 🔭 I’m currently developping on my own Proyect: https://snlionel90.github.io/ 
+- 📫 How to reach me: SnLionel90, Webdeveloper
+- 🔭Now I'm currently Working  in TecData as IT Technician + web Develpopper
+- 💬 Ask me about Coding or job, working market or how to improve yourself in workplace, not about news or newspapers, I don't care about second one and have not interest in with. ⚡ ignorance is the best ally.
+-⚡ Fun fact: I HATE weird people, anime obsessed or freaks, I don't care between 0 and nothing, well that... makes me sick
