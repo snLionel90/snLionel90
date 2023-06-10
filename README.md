@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Hi World, my name is Lionel, called SnLionel90, I'm an Android, Node,AngularJs, JavaScript, C#, Java, Python and WEB Developer Autodidact since 2016. F for me
-- 🔭 I’m currently developping on my own Proyect: https://snlionel90.github.io/ 
+- 🔭 I’m currently developping on my own Proyect: ""COMMING SOON""
 - 📫 How to reach me: SnLionel90, Webdeveloper
 - 👨💼Now I'm currently Working  in TecData as IT Technician + web Developper -->I Like it
 - 💬 Ask me about Coding or job, working market or how to improve yourself in workplace, 
