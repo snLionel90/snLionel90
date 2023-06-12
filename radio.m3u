@@ -1,0 +1,102 @@
+#EXTM3U
+#EXTINF:0,Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:0,COPE
+https://flucast-m04-06.flumotion.com/cope/net1.mp3
+#EXTINF:0,Onda Cero
+https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
+#EXTINF:0,Radio Nacional
+https://rtvelivestream.akamaized.net/segments/rne/rne_r1_main.m3u8
+#EXTINF:0,Radio 5 RNE
+https://rtvelivestream.akamaized.net/segments/rne/rne_r5_madrid_main.m3u8
+#EXTINF:0,RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+#EXTINF:0,Canal Sur Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/master.m3u8
+#EXTINF:0,Euskadi Irratia
+https://multimedia.eitb.eus/live-content/euskadirratia-hls/master.m3u8
+#EXTINF:0,Radio Galega
+http://wecast-b02-03.flumotion.com/radiogalega/live.mp3
+#EXTINF:0,LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+#EXTINF:0,Cadena Dial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+#EXTINF:0,Europa FM
+https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
+#EXTINF:0,Rock FM
+https://rockfm-cope.flumotion.com/playlist.m3u8
+#EXTINF:0,Radio 3 RNE
+https://rtvelivestream.akamaized.net/segments/rne/rne_r3_main.m3u8
+#EXTINF:0,LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+#EXTINF:0,Kiss FM
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+#EXTINF:0,RAC 105
+http://rac105.radiocat.net/;*.nsv
+#EXTINF:0,Hit FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
+#EXTINF:0,MegaStar FM
+https://megastar-cope.flumotion.com/playlist.m3u8
+#EXTINF:0,Melodhttps://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8
+#EXTINF:0,Loca FM
+http://s3.we4stream.com:8045/live
+#EXTINF:0,Radio Clhttps://rtvelivestream.akamaized.net/segments/rne/rne_r2_main.m3u8
+#EXTINF:0,Radio Marhttp://dreamsiteradiocp.com:8060/;stream.mp3
+#EXTINF:0,LOS40 Dance
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
+#EXTINF:0,LOS40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+#EXTINF:0,Loca FM Dance
+http://s02.fjperezdj.com:8025/live
+#EXTINF:0,Loca FM Remember
+http://s02.fjperezdj.com:8035/live
+#EXTINF:0,Loca FM Trap
+http://s02.fjperezdj.com:8060/live
+#EXTINF:0,Loca FM Urban
+http://locafm02.we4stream.com:8015/live
+#EXTINF:0,digitalHits FM
+http://digitalhits.frilab.com:8000/digitalhits;
+#EXTINF:0,Spectrum FM
+https://eu8.fastcast4u.com/proxy/spectrumcds2?mp=/1
+#EXTINF:0,MIX FM Radio
+https://server10.emitironline.com:8064/stream
+#EXTINF:0,CMM Radio
+https://cdnsecakmi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_qilzwlkz/protocol/https/format/applehttp/flavorIds/1_nob8gh2g,1_h2yimjdz,1_1egotcvd/a.m3u8
+#EXTINF:0,La http://5.196.73.188:8010/;.mp3
+#EXTINF:0,OndaMadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/index.m3u8
+#EXTINF:0,Vaughan Radio
+https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3
+#EXTINF:0,Dynamis Radio
+https://control.streaming-pro.com:8014/stream
+#EXTINF:0,Master FM
+https://radios.lamaster.es:8000/madrid
+#EXTINF:0,Radio Vallekas
+https://radiobot.radioslibres.info/radio/8120/radio.mp3
+#EXTINF:0,Radio 21
+http://node-01.zeno.fm/q39semrpyk8uv
+#EXTINF:0,Radio 4G
+https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3
+#EXTINF:0,ECO Leganhttps://cervera.eldialdigital.com:25191/stream
+#EXTINF:0,Globo FM
+https://sonic.sistemahost.es/8200/stream
+#EXTINF:0,Antena CEMU
+http://str1.mediatelekom.net:8110/;
+#EXTINF:0,Sol Radio
+https://server.spainbroadcast.net/8054/stream
+#EXTINF:0,Eguzki Irratia
+http://51.68.46.71:9000/eguzki.mp3
+#EXTINF:0,La Flamenca
+https://stream.mediasector.es/radio/8070/laflamenca.mp3
+#EXTINF:0,La Que Suena
+https://stream.mediasector.es/radio/8090/laquesuena.mp3
+#EXTINF:0,Cassette FM
+https://cdn4.onstream.audio:9154/cassettefm.mp3
+#EXTINF:0,Tomorrowland Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8
+#EXTINF:0,69366
+#EXTVLCOPT:network-caching=1000
+https://listen7.myradio24.com/69366
+#EXTINF:0,radio.mp3
+#EXTVLCOPT:network-caching=1000
+https://radio.oniriaradio.com:8000/radio.mp3
